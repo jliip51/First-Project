@@ -14,8 +14,8 @@ A content search application providing users with a single point of reference to
 +APIs: Twitter, YouTube, Otto Audio, Meetup, NY Times, Google Books, Unsplash
 
 ## Team Members
-+[Kamoltip Cardenas](https://github.com/kamoltip)
-+[Jeff Liipfert](https://github.com/jliip51)
-+[Fletcher Whiting](https://github.com/Whiting1)
-+[Mauricio Ramirez](https://github.com/marez111)
-+[Oghenero Ekwevugbe](https://github.com/neroxxpips)
+* [Kamoltip Cardenas](https://github.com/kamoltip)
+* [Jeff Liipfert](https://github.com/jliip51)
+* [Fletcher Whiting](https://github.com/Whiting1)
+* [Mauricio Ramirez](https://github.com/marez111)
+* [Oghenero Ekwevugbe](https://github.com/neroxxpips)
